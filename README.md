@@ -15,7 +15,7 @@ Register Here : [Chick Coop](https://t.me/chickcoopofficial_bot/chickcoop?starta
     - Multi Account
     - Multi Thread
     - Auto Spin (VIP only)
-    - Auto Upgrade Farm Levle (VIP Only)
+    - Auto Upgrade Farm Level (VIP Only)
 
 ## Installation
 
